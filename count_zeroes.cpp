@@ -1,4 +1,4 @@
-#include<iostream> //Calcilating no. of zeros in array using divide 
+#include<iostream> //Calculating no. of zeros in array using binary search which is application of Divide and Conquer
 using namespace std;
 int main()
 {
